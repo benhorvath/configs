@@ -117,5 +117,5 @@ filetype plugin indent on
 
 " activate solarized dark
 syntax enable
-set background=light
+set background=dark
 colorscheme solarized
