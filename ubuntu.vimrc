@@ -83,6 +83,17 @@ let g:syntastic_check_on_wq = 0
 "PEP8 checking
 Plugin 'nvie/vim-flake8'
 
+"Commenting
+Plugin 'scrooloose/nerdcommenter'
+
+" Rmarkdown support
+Plugin 'vim-pandoc/vim-pandoc'
+Plugin 'vim-pandoc/vim-pandoc-syntax'
+Plugin 'vim-pandoc/vim-rmarkdown'
+
+" LaTeX support
+Plugin 'vim-latex/vim-latex'
+
 " Solarized colors
 Plugin 'altercation/vim-colors-solarized'
 
